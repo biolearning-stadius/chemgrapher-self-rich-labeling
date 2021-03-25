@@ -1,6 +1,5 @@
 # Self-labeling of Fully Mediating Representations by Graph Alignment
 
-This code is made available as supporting material by the authors of the paper submitted to ICLR2021: https://openreview.net/forum?id=XEw5Onu69uu
 
 ## Prerequisites
 
