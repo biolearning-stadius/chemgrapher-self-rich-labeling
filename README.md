@@ -1,4 +1,4 @@
-# Self-labeling of Fully Mediating Representations by Graph Alignment
+# Self-labeling of Fully Mediating Representations by Graph Alignment [(ref)](https://arxiv.org/abs/2103.14133)
 
 
 ## Prerequisites
